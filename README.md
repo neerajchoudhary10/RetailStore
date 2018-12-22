@@ -9,7 +9,13 @@ Code Explanation:
   d) Finally if bill sum is greater than $100 than applying $5 on each $100 amount
 5) In CalculateDiscount class there is main method to test the program and its discount.
 
+Code coverage calculated by eclipse plugin EclEmma and its 86%
+
 Test case:
 3 different test case class created for all user types.
-and checked the calculation are calculated correct or not.\
-And also checked date is 2 years back from current date.
+and checked the calculation are calculated correct or not.And also checked date is 2 years back from current date.
+
+To check test case open any test case class and change its price amount and run tha test case.
+And no discount applied for grocery items.
+
+Discount for Employee is 30%, Affiliate is 10% and for registered users 2 years  back is 5% and on bill of $100 additional off of $5.
